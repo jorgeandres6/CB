@@ -1,0 +1,160 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: '419575C14EB3735B75',
+    participant: undefined
+  },
+  messageTimestamp: 1692414354,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'zona', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'zona',
+  from: '593978909597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: '1E9F112C28AE6402B3',
+    participant: undefined
+  },
+  messageTimestamp: 1692414355,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '593978909597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: '256DF2F1831F6C3B62',
+    participant: undefined
+  },
+  messageTimestamp: 1692414358,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'zona', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'zona',
+  from: '593978909597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: '1752CD3FF3FFE3407F',
+    participant: undefined
+  },
+  messageTimestamp: 1692414368,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'zona', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'zona',
+  from: '593978909597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: '3084ECB735188E4BFC',
+    participant: undefined
+  },
+  messageTimestamp: 1692414379,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '593978909597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA1B49D70C78D24108',
+    participant: undefined
+  },
+  messageTimestamp: 1692414383,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'zona', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'zona',
+  from: '593978909597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: 'D9AF9BB930E1C83867',
+    participant: undefined
+  },
+  messageTimestamp: 1692414394,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '593978909597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978909597@s.whatsapp.net',
+    fromMe: false,
+    id: '0C66F66BF30A4595FD',
+    participant: undefined
+  },
+  messageTimestamp: 1692414397,
+  pushName: 'Jorge Andres',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'zona', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'zona',
+  from: '593978909597'
+}
